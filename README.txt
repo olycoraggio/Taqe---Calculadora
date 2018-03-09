@@ -4,14 +4,14 @@ Desenvolvedor:
 Orlando Vieira Lopes
 
 App:
-Calculadora simples para operaÁıes de:
+Calculadora simples para opera√ß√µes de:
 
--AdiÁ„o;
--SubtraÁ„o;
--MultiplicaÁ„o;
--Divis„o.
+-Adi√ß√£o;
+-Subtra√ß√£o;
+-Multiplica√ß√£o;
+-Divis√£o.
 
 Use:
-Ao inserir o operaÁ„o, esta ser· exibida no primeiro campo. ao pressionar o bot„o de igualdade, 
-o resultado da operaÁ„o ira aparecer no segundo campo.
-Para realizar outra operaÁ„o, È necess·rio limpar o campo de resultado pressionando o bot„o Del.
+Para iniciar uma opera√ß√£o √© necess√°rio digita-la, e logo ela ir√° aparecer no primeiro campo. Ao pressionar o bot√£o de igualdade, 
+o resultado da opera√ß√£o ira aparecer no segundo campo.
+Para realizar outra opera√ß√£o, √© necess√°rio limpar o campo de resultado pressionando o bot√£o Del.
